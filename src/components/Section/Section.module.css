@@ -1,0 +1,11 @@
+.feedback {
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+    margin: 0 auto;
+}
+
+.title {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 34px;
+}
